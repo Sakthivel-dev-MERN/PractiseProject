@@ -1,6 +1,21 @@
 .background{
     background-image: url('https://images.pexels.com/photos/240526/pexels-photo-240526.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
+    height: 750px;
+    width: 500px;
+    background-repeat: no-repeat;
+}
+
+.background2{
+    background-image: url('https://images.pexels.com/photos/7263897/pexels-photo-7263897.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1');
     height:750px;
     width: 500px;
+    background-repeat: no-repeat;
+}
+
+.img1{
+    background-image: url('./assets/taj.png');
+    height: 128px;
+    width: 128px;
+    
     background-repeat: no-repeat;
 }
